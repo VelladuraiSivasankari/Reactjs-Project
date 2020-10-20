@@ -1,0 +1,25 @@
+.sign {
+    width: 100%;
+    margin:auto;
+    padding: 280px;
+   
+    height: 80vmin;
+}
+
+h1{
+    text-align: left;
+}
+
+input{
+    width:15em;
+}
+
+.signup{
+    margin-left:60em;
+    background-color: grey;
+    color:white;
+    width:12em;
+    
+    
+
+}
