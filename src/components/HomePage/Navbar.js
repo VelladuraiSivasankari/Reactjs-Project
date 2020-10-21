@@ -25,11 +25,11 @@ class Navbar extends Component {
   </a>
   <div class="right menu">
     <div class="item">
-      <div class="ui transparent icon input">
+      <div class="transparent icon input">
       <input type="text" placeholder="Search ..."  />
       </div>
     </div>
-    <a class="ui item">
+    <a class="item">
       Logout
     </a>
  </div>

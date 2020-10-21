@@ -1,8 +1,8 @@
-.new-container{
+.container-div{
   margin: auto;
   margin-top: 200px;
    height:400px;
-   width: 500px;
+   width: 520px;
    border-color: 1px solid grey;
    background-color: whitesmoke;
 }
